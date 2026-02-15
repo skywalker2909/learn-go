@@ -1,5 +1,5 @@
 # Learn Golang by examples
 
-- [Getting started](./getting-started/)
-- [Variables, Types and Operators](./variables-types-operators/)
-- [Control flow](./control-flow/)
+- [Getting started](./getting-started/main.go)
+- [Variables, Types and Operators](./variables-types-operators/main.go)
+- [Control flow](./control-flow/main.go)
