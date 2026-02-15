@@ -36,6 +36,8 @@ func main() {
 			fmt.Println("Fizz:", i)
 		} else if i%5 == 0 {
 			fmt.Println("Buzz:", i)
+		} else {
+			fmt.Println(i)
 		}
 	}
 }
